@@ -1,0 +1,14 @@
+.chair-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  
+  .chair-image {
+    max-width: 300px; /* Maximum width of the chair image */
+    max-height: 300px; /* Maximum height of the chair image */
+    margin: 10px; /* Adjust the margin around each chair */
+    margin-top: 50px;
+    margin-bottom: 50px;
+  }
+  

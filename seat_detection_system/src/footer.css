@@ -1,0 +1,21 @@
+footer {
+    background-image: radial-gradient(circle at center, #2c3e50, #000000);
+    background-color: #2c3e50;
+    color: #ffffff;
+    text-align: center;
+    padding: 20px;
+    position: relative;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+  }
+  
+  footer p {
+    margin: 0;
+    font-size: 1rem;
+  }
+  
+  
+  footer p:hover {
+    color: #e74c3c; /* Color for the copyright symbol on hover */
+  }
