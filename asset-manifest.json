@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/seat_detection_system-IOT_application/static/css/main.f685a3b0.css",
-    "main.js": "/seat_detection_system-IOT_application/static/js/main.4285d3eb.js",
+    "main.css": "/seat_detection_system-IOT_application/static/css/main.d49d7d50.css",
+    "main.js": "/seat_detection_system-IOT_application/static/js/main.80045989.js",
     "static/js/453.b3bfb185.chunk.js": "/seat_detection_system-IOT_application/static/js/453.b3bfb185.chunk.js",
     "static/media/header_background_image.jpg": "/seat_detection_system-IOT_application/static/media/header_background_image.0568f1b2ff06bcaa5740.jpg",
     "static/media/seat2.jpg.png": "/seat_detection_system-IOT_application/static/media/seat2.jpg.093e8335cc3debbfcc32.png",
     "static/media/seat1.jpg.png": "/seat_detection_system-IOT_application/static/media/seat1.jpg.224161f4f120e059e5b9.png",
     "index.html": "/seat_detection_system-IOT_application/index.html",
-    "main.f685a3b0.css.map": "/seat_detection_system-IOT_application/static/css/main.f685a3b0.css.map",
-    "main.4285d3eb.js.map": "/seat_detection_system-IOT_application/static/js/main.4285d3eb.js.map",
+    "main.d49d7d50.css.map": "/seat_detection_system-IOT_application/static/css/main.d49d7d50.css.map",
+    "main.80045989.js.map": "/seat_detection_system-IOT_application/static/js/main.80045989.js.map",
     "453.b3bfb185.chunk.js.map": "/seat_detection_system-IOT_application/static/js/453.b3bfb185.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f685a3b0.css",
-    "static/js/main.4285d3eb.js"
+    "static/css/main.d49d7d50.css",
+    "static/js/main.80045989.js"
   ]
 }
